@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
+    <a href="https://github.com/jonypeixoto/Dark-Cyber-Theme" target="_blank">
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
@@ -9,7 +9,7 @@
     </a>
 </h1>
 <p align="center">
-  A vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design.
+  A vibrantly elegant dark theme available for multiple platforms. Inspired by the cyberpunk culture and mystery of aliens, this theme combines rich, deep colors with a clean and modern design.
 </p>
 
 ![Screenshot](./screenshot.png)
@@ -22,13 +22,13 @@ All instructions can be found in the included [Install](INSTALL.md) file.
 
 This theme is maintained by the following person(s).
 
-| [![Scott Griv](https://github.com/scottgriv.png?size=100)](https://github.com/scottgriv) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)                                              |
+| [![Jony Peixoto](https://github.com/jonypeixoto.png?size=100)](https://github.com/jonypeixoto) |
+| ---------------------------------------------------------------------------------------- |
+| [Jony Peixoto](https://github.com/jonypeixoto)                                               |                                           |
 
 ## Contributing
 
-If you'd like to contribute to this theme, please read the [Contributing Guidelines](https://github.com/scottgriv/Dark-Castle-Theme/blob/main/.github/CONTRIBUTING.md).
+If you'd like to contribute to this theme, please read the [Contributing Guidelines](https://github.com/jonypeixoto/Dark-Cyber-Theme/blob/main/.github/CONTRIBUTING.md).
 
 ## Changelog
 
@@ -36,8 +36,8 @@ Please refer to the [Changelog](.github/CHANGELOG.md) file in this repository fo
 
 ## Additional Information
 
-- [Main GitHub Repository](https://github.com/scottgriv/Dark-Castle-Theme)
-- [Visit our Website](https://darkcastle.netlify.app/)
+- [Main GitHub Repository](https://github.com/jonypeixoto/Dark-Cyber-Theme)
+- [Visit our Website](https://darkcyber.netlify.app/)
 
 ## License
 
